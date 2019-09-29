@@ -12,7 +12,7 @@ In addition a data set of the movies includes the movie name and genres.
 * **title**
 * **genres**
 
-The dataset can be found here : https://github.com/Gurupradeep/Movie-Recommendation-System/tree/master/Dataset
+The dataset can be found here :https://grouplens.org/datasets/movielens/100k/
 
 ## Approaches Used :
 ### Non Personalised Recommendations
