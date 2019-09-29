@@ -1,0 +1,4 @@
+FYB 
+
+^ IMDB formula to get the best movie genre by using weighted scores 
+* 

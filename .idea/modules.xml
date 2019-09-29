@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/FYB.iml" filepath="$PROJECT_DIR$/.idea/FYB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../RecEng/.idea/REcEng.iml" filepath="$PROJECT_DIR$/../RecEng/.idea/REcEng.iml" />
+    </modules>
+  </component>
+</project>
